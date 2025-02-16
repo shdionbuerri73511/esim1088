@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm shdionbuerri73511
 
-<!--
-**shdionbuerri73511/shdionbuerri73511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛼 🎯 🎳 A keen learner of algorithms 🛼 🎯 🎳
 
-Here are some ideas to get you started:
+## About Me
+🎵 🏒 🥊 Working on augmented reality 🎵 🏒 🥊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🥊 🏓 Building the future with front-end development 🥊 🏓
+
+### Fun Facts
+🚴 🎾 🚵 🥊 A lover of developer tools 🚴 🎾 🚵 🥊
+
+---
+🛹 🎯 🎪 🏄 🎰 Thanks for visiting my profile! 🌺 🥁 🎮 🏓 🎱
